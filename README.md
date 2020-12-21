@@ -19,4 +19,4 @@ $ kubectl apply -f Deployment.yaml
 
 To access the running application you can use your minikube ip:
 
-http://<your-minikube-ip>:30002
+http://\<your-minikube-ip\>:30002
